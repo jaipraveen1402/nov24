@@ -14,7 +14,7 @@ public class SampleProgram1 {
 		m.put(40,40);
 		m.put(50,50);
 		m.put(60,60);
-		m.put(10,10);
+		m.put(20,20);
 		m.put(50,50);
 		m.put(40,40);
 		System.out.println(m);
